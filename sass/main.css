@@ -1,0 +1,24 @@
+/*Variables*/
+/*Mixins*/
+/*Queries*/
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+  *:after, *:before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit; }
+
+html {
+  font-size: 16px;
+  font-family: "Josefine Sans", "Trebuchet MS", Helvetica, sans-serif;
+  line-height: 1.6; }
+
+h1, h2, h3, h4 {
+  font-family: Cardo, "Palatino Linotype", "Book Antiqua", Palatino, serif; }
+
+ul {
+  list-style: none; }
+
+/*# sourceMappingURL=main.css.map */
